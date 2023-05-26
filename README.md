@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+# Screenshots
+
+<img width="1440" alt="Screenshot 2023-05-26 at 2 39 15 PM" src="https://github.com/AnkithSharmaji/habit-tracker.github.io/assets/86291521/b842eb12-3ffa-4a62-94f9-e1402f5a6408">
+<img width="1440" alt="Screenshot 2023-05-26 at 2 39 04 PM" src="https://github.com/AnkithSharmaji/habit-tracker.github.io/assets/86291521/affdfa2f-74ac-492b-a662-f123619e3b75">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
