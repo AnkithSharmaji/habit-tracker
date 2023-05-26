@@ -1,0 +1,85 @@
+.app {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.habits-list {
+  margin: 0 auto;
+  width: 300px;
+}
+
+.habit {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.habit-info {
+  display: flex;
+  align-items: center;
+}
+
+.habit-name {
+  margin-right: 10px;
+}
+
+.habit-status {
+  display: flex;
+}
+
+.status-btn {
+  background: none;
+  border: none;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.status-btn.done {
+  color: green;
+}
+
+.status-btn.not-done {
+  color: red;
+}
+
+.status-btn.none {
+  color: #ccc;
+}
+
+.add-habit-button {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.add-habit {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.add-habit input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.add-habit button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.cancel-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #4caf50;
+  text-decoration: none;
+}
