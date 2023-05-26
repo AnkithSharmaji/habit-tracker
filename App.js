@@ -3,10 +3,11 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import HabitsList from './components/HabitsList';
 import AddHabit from './components/AddHabit';
 
-function App() {
+const App = () => {
   return (
     <Router>
       <div className="app">
+        <h1>Habit Tracker</h1>
         <Switch>
           <Route exact path="/" component={HabitsList} />
           <Route path="/add" component={AddHabit} />
@@ -14,6 +15,6 @@ function App() {
       </div>
     </Router>
   );
-}
+};
 
 export default App;
