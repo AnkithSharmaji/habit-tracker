@@ -2,6 +2,9 @@
 
 # Screenshots
 
+<img width="1440" alt="Screenshot 2023-05-26 at 2 39 15 PM" src="https://github.com/AnkithSharmaji/habit-tracker.github.io/assets/86291521/579f362e-7691-4c22-94fa-59dc4e1e3bb5">
+<img width="1440" alt="Screenshot 2023-05-26 at 2 39 04 PM" src="https://github.com/AnkithSharmaji/habit-tracker.github.io/assets/86291521/17c834b7-72f6-43a7-a245-24aadca74762">
+
 
 
 
