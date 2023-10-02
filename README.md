@@ -1,11 +1,5 @@
 # Getting Started with Create React App
 
-# Screenshots
-
-<img width="1440" alt="Screenshot 2023-05-26 at 2 39 15 PM" src="https://github.com/AnkithSharmaji/habit-tracker.github.io/assets/86291521/579f362e-7691-4c22-94fa-59dc4e1e3bb5">
-<img width="1440" alt="Screenshot 2023-05-26 at 2 39 04 PM" src="https://github.com/AnkithSharmaji/habit-tracker.github.io/assets/86291521/17c834b7-72f6-43a7-a245-24aadca74762">
-
-
 
 Created a habit tracker React app, where we can define habits and track them
 
@@ -22,6 +16,13 @@ Track each habit everyday. These are the 3 statuses of a habit:
     None - User did not take any action on a habit for a day
     
 A view to show all current habits. Here give an add button where you can add a new habit to track
+
+## How to start this project in your PC
+    1. Create a new React application using : npx create-react-app my-react-app
+    2. Navigate into your newly created React app directory 
+    2. Install the all packages using the command : npm install react-router-dom redux axios
+    3. Once you're inside the project directory, you can start the development server by running : npm start
+
 
 ##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
